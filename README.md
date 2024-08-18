@@ -1,4 +1,4 @@
-# OIBGRIP
+
 CALCULATOR
 //index.html//
 !DOCTYPE html>
